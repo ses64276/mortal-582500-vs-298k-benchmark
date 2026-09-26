@@ -1,0 +1,68 @@
+{
+  "title": "Mortal 582500 vs 298k paired benchmark",
+  "source_notebook": "https://www.kaggle.com/code/ess666/mortal-582500-vs-298k-benchmark?scriptVersionId=352932090",
+  "raw_jsonl_sha256": "9e09abc6d7eb373314f044faeeb7f6a1fe20ad6ac395fca4f5f581050c9d5fe9",
+  "paired_batches": 200,
+  "games_per_model": 8000,
+  "seed_range_inclusive": [
+    10000,
+    11999
+  ],
+  "points_by_rank": [
+    90,
+    45,
+    0,
+    -135
+  ],
+  "models": {
+    "582500": {
+      "games": 8000,
+      "rank_counts": [
+        2003,
+        1976,
+        2058,
+        1963
+      ],
+      "average_rank": 2.497625,
+      "rank_rates": [
+        0.250375,
+        0.247,
+        0.25725,
+        0.245375
+      ],
+      "rank_pt_per_game": 0.523125
+    },
+    "298k": {
+      "games": 8000,
+      "rank_counts": [
+        2013,
+        1911,
+        2040,
+        2036
+      ],
+      "average_rank": 2.512375,
+      "rank_rates": [
+        0.251625,
+        0.238875,
+        0.255,
+        0.2545
+      ],
+      "rank_pt_per_game": -0.961875
+    }
+  },
+  "comparison_582500_minus_298k": {
+    "average_rank_difference": -0.014749999999999819,
+    "rank_pt_difference": 1.4849999999999999,
+    "paired_bootstrap_95pct_rank_pt_interval": [
+      -0.961875,
+      3.8362499999999997
+    ],
+    "paired_bootstrap_95pct_average_rank_interval": [
+      -0.04400312500000003,
+      0.01587499999999986
+    ],
+    "posterior_probability_rank_pt_difference_positive": 0.8835389982082709,
+    "bayesian_bootstrap_probability_rank_pt_difference_positive": 0.8855,
+    "probability_scope": "Expected Rank PT under this 1-vs-3 arena protocol, not single-game win rate or universal strength."
+  }
+}

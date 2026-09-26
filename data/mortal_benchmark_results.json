@@ -1,0 +1,6002 @@
+[
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10000,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      6,
+      16
+    ],
+    "seconds": 76.76
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10000,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      5,
+      11,
+      11
+    ],
+    "seconds": 72.413
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10010,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      9,
+      11
+    ],
+    "seconds": 78.079
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10010,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      9,
+      10,
+      7
+    ],
+    "seconds": 73.765
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10020,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      14,
+      5
+    ],
+    "seconds": 73.183
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10020,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      9,
+      12
+    ],
+    "seconds": 76.553
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10030,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      6,
+      16,
+      11
+    ],
+    "seconds": 75.749
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10030,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      8,
+      11
+    ],
+    "seconds": 73.327
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10040,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      10,
+      11
+    ],
+    "seconds": 72.575
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10040,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      10,
+      9
+    ],
+    "seconds": 79.733
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10050,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      9,
+      17,
+      8
+    ],
+    "seconds": 77.646
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10050,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      11,
+      10,
+      13
+    ],
+    "seconds": 68.772
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10060,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      14,
+      9
+    ],
+    "seconds": 74.482
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10060,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      7,
+      14
+    ],
+    "seconds": 76.945
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10070,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      13,
+      6,
+      8
+    ],
+    "seconds": 70.386
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10070,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      9,
+      10
+    ],
+    "seconds": 86.409
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10080,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      7,
+      14,
+      11
+    ],
+    "seconds": 78.768
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10080,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      13,
+      8
+    ],
+    "seconds": 82.172
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10090,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      10,
+      10,
+      7
+    ],
+    "seconds": 71.992
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10090,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      12,
+      10
+    ],
+    "seconds": 76.584
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10100,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      9,
+      10
+    ],
+    "seconds": 83.35
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10100,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      10,
+      10
+    ],
+    "seconds": 73.844
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10110,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      7,
+      11
+    ],
+    "seconds": 68.799
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10110,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      13,
+      9
+    ],
+    "seconds": 70.721
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10120,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      12,
+      8
+    ],
+    "seconds": 76.406
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10120,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      8,
+      10
+    ],
+    "seconds": 74.057
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10130,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      7,
+      12
+    ],
+    "seconds": 75.806
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10130,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      9,
+      13,
+      11
+    ],
+    "seconds": 77.278
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10140,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      6,
+      9,
+      12
+    ],
+    "seconds": 72.309
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10140,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      10,
+      13
+    ],
+    "seconds": 74.25
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10150,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      9,
+      9
+    ],
+    "seconds": 74.332
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10150,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      10,
+      10
+    ],
+    "seconds": 74.787
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10160,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      13,
+      10
+    ],
+    "seconds": 78.254
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10160,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      8,
+      10
+    ],
+    "seconds": 76.939
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10170,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      6,
+      12
+    ],
+    "seconds": 73.34
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10170,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      8,
+      12
+    ],
+    "seconds": 84.219
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10180,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      10,
+      9,
+      8
+    ],
+    "seconds": 82.967
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10180,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      13,
+      10,
+      11
+    ],
+    "seconds": 79.3
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10190,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      7,
+      10
+    ],
+    "seconds": 72.839
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10190,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      12,
+      9
+    ],
+    "seconds": 78.046
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10200,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      8,
+      10
+    ],
+    "seconds": 78.386
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10200,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      10,
+      9
+    ],
+    "seconds": 79.023
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10210,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      9,
+      8,
+      8
+    ],
+    "seconds": 78.39
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10210,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      10,
+      10
+    ],
+    "seconds": 79.64
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10220,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      13,
+      8,
+      12
+    ],
+    "seconds": 79.51
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10220,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      8,
+      6,
+      13
+    ],
+    "seconds": 73.001
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10230,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      6,
+      11,
+      11
+    ],
+    "seconds": 74.937
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10230,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      11,
+      8,
+      15
+    ],
+    "seconds": 73.072
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10240,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      10,
+      9
+    ],
+    "seconds": 85.745
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10240,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      9,
+      11
+    ],
+    "seconds": 83.499
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10250,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      15,
+      8
+    ],
+    "seconds": 90.176
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10250,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      6,
+      10,
+      13
+    ],
+    "seconds": 82.544
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10260,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      8,
+      12
+    ],
+    "seconds": 70.314
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10260,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      14,
+      9,
+      8
+    ],
+    "seconds": 80.36
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10270,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      8,
+      13
+    ],
+    "seconds": 79.48
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10270,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      11,
+      12
+    ],
+    "seconds": 78.391
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10280,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      13,
+      7
+    ],
+    "seconds": 75.436
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10280,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      11,
+      13
+    ],
+    "seconds": 80.917
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10290,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      12,
+      9,
+      8
+    ],
+    "seconds": 83.419
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10290,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      8,
+      8,
+      11
+    ],
+    "seconds": 77.569
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10300,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      6,
+      14,
+      8
+    ],
+    "seconds": 75.186
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10300,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      5,
+      12,
+      13,
+      10
+    ],
+    "seconds": 80.271
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10310,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      10,
+      11
+    ],
+    "seconds": 79.439
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10310,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      8,
+      13
+    ],
+    "seconds": 78.968
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10320,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      15,
+      3,
+      11
+    ],
+    "seconds": 78.076
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10320,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      5,
+      11,
+      12
+    ],
+    "seconds": 83.169
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10330,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      6,
+      12
+    ],
+    "seconds": 73.145
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10330,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      11,
+      10
+    ],
+    "seconds": 84.351
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10340,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      9,
+      8,
+      9
+    ],
+    "seconds": 86.55
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10340,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      7,
+      9,
+      16
+    ],
+    "seconds": 80.509
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10350,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      9,
+      8,
+      16
+    ],
+    "seconds": 75.515
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10350,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      8,
+      12,
+      6
+    ],
+    "seconds": 84.698
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10360,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      7,
+      12,
+      12
+    ],
+    "seconds": 78.304
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10360,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      14,
+      9
+    ],
+    "seconds": 78.778
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10370,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      4,
+      12,
+      10
+    ],
+    "seconds": 76.457
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10370,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      8,
+      10
+    ],
+    "seconds": 73.747
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10380,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      12,
+      7,
+      10
+    ],
+    "seconds": 79.774
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10380,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      7,
+      14,
+      8
+    ],
+    "seconds": 81.441
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10390,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      13,
+      6
+    ],
+    "seconds": 74.337
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10390,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      7,
+      13
+    ],
+    "seconds": 72.397
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10400,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      9,
+      8,
+      9
+    ],
+    "seconds": 84.019
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10400,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      15,
+      8,
+      9
+    ],
+    "seconds": 78.961
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10410,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      11,
+      8,
+      15
+    ],
+    "seconds": 79.536
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10410,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      9,
+      10
+    ],
+    "seconds": 73.896
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10420,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      10,
+      14
+    ],
+    "seconds": 73.455
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10420,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      12,
+      5,
+      9
+    ],
+    "seconds": 71.156
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10430,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      12,
+      10,
+      11
+    ],
+    "seconds": 98.877
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10430,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      12,
+      7
+    ],
+    "seconds": 94.926
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10440,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      9,
+      10,
+      8
+    ],
+    "seconds": 83.386
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10440,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      11,
+      9
+    ],
+    "seconds": 90.269
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10450,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      6,
+      14,
+      8
+    ],
+    "seconds": 93.934
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10450,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      11,
+      6
+    ],
+    "seconds": 94.736
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10460,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      5,
+      11,
+      12
+    ],
+    "seconds": 82.794
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10460,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      13,
+      10
+    ],
+    "seconds": 78.976
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10470,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      6,
+      10
+    ],
+    "seconds": 85.826
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10470,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      11,
+      7
+    ],
+    "seconds": 97.124
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10480,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      12,
+      8
+    ],
+    "seconds": 84.893
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10480,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      13,
+      7,
+      8
+    ],
+    "seconds": 73.475
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10490,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      12,
+      8
+    ],
+    "seconds": 78.696
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10490,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      12,
+      9
+    ],
+    "seconds": 82.587
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10500,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      5,
+      12,
+      9,
+      14
+    ],
+    "seconds": 94.796
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10500,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      16,
+      9,
+      7,
+      8
+    ],
+    "seconds": 92.41
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10510,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      9,
+      13
+    ],
+    "seconds": 85.974
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10510,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      8,
+      8
+    ],
+    "seconds": 83.664
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10520,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      6,
+      14,
+      8
+    ],
+    "seconds": 81.952
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10520,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      8,
+      13
+    ],
+    "seconds": 86.64
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10530,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      10,
+      13
+    ],
+    "seconds": 86.546
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10530,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      10,
+      9
+    ],
+    "seconds": 86.22
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10540,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      12,
+      10
+    ],
+    "seconds": 106.034
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10540,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      15,
+      5,
+      11
+    ],
+    "seconds": 102.316
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10550,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      10,
+      11
+    ],
+    "seconds": 92.888
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10550,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      11,
+      12
+    ],
+    "seconds": 100.894
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10560,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      8,
+      13,
+      11
+    ],
+    "seconds": 100.221
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10560,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      6,
+      8,
+      12
+    ],
+    "seconds": 102.762
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10570,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      15,
+      8
+    ],
+    "seconds": 90.739
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10570,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      12,
+      10
+    ],
+    "seconds": 85.133
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10580,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      18,
+      5
+    ],
+    "seconds": 98.439
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10580,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      4,
+      15,
+      9
+    ],
+    "seconds": 91.468
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10590,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      10,
+      6
+    ],
+    "seconds": 81.872
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10590,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      4,
+      13,
+      14
+    ],
+    "seconds": 73.086
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10600,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      10,
+      11
+    ],
+    "seconds": 76.401
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10600,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      7,
+      12
+    ],
+    "seconds": 86.64
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10610,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      13,
+      11
+    ],
+    "seconds": 84.513
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10610,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      6,
+      10
+    ],
+    "seconds": 74.335
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10620,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      16,
+      8,
+      8
+    ],
+    "seconds": 79.695
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10620,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      11,
+      8
+    ],
+    "seconds": 81.946
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10630,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      11,
+      12
+    ],
+    "seconds": 83.488
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10630,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      9,
+      10
+    ],
+    "seconds": 82.749
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10640,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      8,
+      12,
+      5
+    ],
+    "seconds": 75.575
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10640,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      9,
+      9,
+      8
+    ],
+    "seconds": 69.971
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10650,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      10,
+      10
+    ],
+    "seconds": 84.985
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10650,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      12,
+      7,
+      14
+    ],
+    "seconds": 79.188
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10660,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      10,
+      13
+    ],
+    "seconds": 75.774
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10660,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      7,
+      10,
+      14
+    ],
+    "seconds": 84.169
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10670,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      15,
+      7
+    ],
+    "seconds": 78.113
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10670,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      6,
+      12,
+      13
+    ],
+    "seconds": 80.173
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10680,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      9,
+      10
+    ],
+    "seconds": 75.235
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10680,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      14,
+      9
+    ],
+    "seconds": 75.057
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10690,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      14,
+      11,
+      5
+    ],
+    "seconds": 86.533
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10690,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      11,
+      8
+    ],
+    "seconds": 83.787
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10700,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      6,
+      14
+    ],
+    "seconds": 80.668
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10700,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      6,
+      14
+    ],
+    "seconds": 80.051
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10710,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      5,
+      13,
+      9
+    ],
+    "seconds": 86.984
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10710,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      9,
+      10
+    ],
+    "seconds": 84.195
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10720,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      14,
+      10,
+      5
+    ],
+    "seconds": 81.681
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10720,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      10,
+      8
+    ],
+    "seconds": 81.415
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10730,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      5,
+      11,
+      14
+    ],
+    "seconds": 83.301
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10730,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      12,
+      8
+    ],
+    "seconds": 80.497
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10740,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      13,
+      6
+    ],
+    "seconds": 96.898
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10740,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      7,
+      11
+    ],
+    "seconds": 93.394
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10750,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      11,
+      10
+    ],
+    "seconds": 104.617
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10750,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      12,
+      12,
+      9
+    ],
+    "seconds": 94.199
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10760,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      16,
+      10,
+      7
+    ],
+    "seconds": 93.759
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10760,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      7,
+      15
+    ],
+    "seconds": 94.416
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10770,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      15,
+      8
+    ],
+    "seconds": 88.112
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10770,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      12,
+      10
+    ],
+    "seconds": 110.301
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10780,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      11,
+      5,
+      18
+    ],
+    "seconds": 89.608
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10780,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      11,
+      10
+    ],
+    "seconds": 86.494
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10790,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      9,
+      9
+    ],
+    "seconds": 90.739
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10790,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      12,
+      7
+    ],
+    "seconds": 83.662
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10800,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      13,
+      8,
+      8
+    ],
+    "seconds": 87.203
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10800,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      10,
+      12
+    ],
+    "seconds": 89.63
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10810,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      9,
+      10
+    ],
+    "seconds": 75.342
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10810,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      14,
+      9
+    ],
+    "seconds": 89.598
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10820,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      10,
+      8
+    ],
+    "seconds": 82.88
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10820,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      11,
+      10,
+      12
+    ],
+    "seconds": 82.253
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10830,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      12,
+      8
+    ],
+    "seconds": 73.884
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10830,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      4,
+      16,
+      8
+    ],
+    "seconds": 74.64
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10840,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      8,
+      15
+    ],
+    "seconds": 79.215
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10840,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      14,
+      6,
+      9
+    ],
+    "seconds": 81.41
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10850,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      10,
+      11
+    ],
+    "seconds": 86.029
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10850,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      12,
+      11
+    ],
+    "seconds": 75.287
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10860,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      12,
+      9
+    ],
+    "seconds": 88.805
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10860,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      11,
+      9
+    ],
+    "seconds": 94.633
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10870,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      14,
+      6
+    ],
+    "seconds": 75.432
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10870,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      11,
+      9,
+      6
+    ],
+    "seconds": 79.279
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10880,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      9,
+      9
+    ],
+    "seconds": 75.333
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10880,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      12,
+      9
+    ],
+    "seconds": 73.863
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10890,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      8,
+      4,
+      13
+    ],
+    "seconds": 78.067
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10890,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      7,
+      12
+    ],
+    "seconds": 73.405
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10900,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      14,
+      10,
+      7
+    ],
+    "seconds": 80.141
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10900,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      12,
+      11,
+      10
+    ],
+    "seconds": 80.73
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10910,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      8,
+      10
+    ],
+    "seconds": 87.06
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10910,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      13,
+      9,
+      7
+    ],
+    "seconds": 70.714
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10920,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      10,
+      11
+    ],
+    "seconds": 75.176
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10920,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      14,
+      10
+    ],
+    "seconds": 83.91
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10930,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      8,
+      12,
+      12
+    ],
+    "seconds": 77.416
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10930,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      10,
+      11
+    ],
+    "seconds": 77.316
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10940,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      11,
+      9
+    ],
+    "seconds": 71.339
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10940,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      9,
+      11
+    ],
+    "seconds": 68.925
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10950,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      7,
+      12,
+      10
+    ],
+    "seconds": 72.213
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10950,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      7,
+      11,
+      11
+    ],
+    "seconds": 70.212
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10960,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      8,
+      12,
+      13
+    ],
+    "seconds": 76.088
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10960,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      5,
+      13,
+      7
+    ],
+    "seconds": 70.942
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10970,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      10,
+      9
+    ],
+    "seconds": 75.266
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10970,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      10,
+      11
+    ],
+    "seconds": 75.769
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10980,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      7,
+      17,
+      7
+    ],
+    "seconds": 76.814
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10980,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      11,
+      8
+    ],
+    "seconds": 73.667
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 10990,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      9,
+      14
+    ],
+    "seconds": 90.423
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 10990,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      15,
+      5
+    ],
+    "seconds": 88.875
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11000,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      6,
+      14,
+      11
+    ],
+    "seconds": 74.671
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11000,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      12,
+      6
+    ],
+    "seconds": 86.762
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11010,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      8,
+      13
+    ],
+    "seconds": 83.002
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11010,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      10,
+      6,
+      9
+    ],
+    "seconds": 85.464
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11020,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      12,
+      9
+    ],
+    "seconds": 84.355
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11020,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      7,
+      8,
+      11
+    ],
+    "seconds": 81.388
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11030,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      12,
+      8
+    ],
+    "seconds": 71.04
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11030,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      12,
+      10
+    ],
+    "seconds": 83.296
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11040,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      4,
+      14,
+      11
+    ],
+    "seconds": 79.512
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11040,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      15,
+      6,
+      8
+    ],
+    "seconds": 82.934
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11050,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      11,
+      10
+    ],
+    "seconds": 81.709
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11050,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      11,
+      14,
+      9
+    ],
+    "seconds": 96.748
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11060,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      8,
+      12
+    ],
+    "seconds": 82.118
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11060,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      11,
+      8
+    ],
+    "seconds": 83.781
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11070,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      7,
+      12,
+      10
+    ],
+    "seconds": 88.472
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11070,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      7,
+      13,
+      9
+    ],
+    "seconds": 82.719
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11080,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      14,
+      9
+    ],
+    "seconds": 77.636
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11080,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      9,
+      10
+    ],
+    "seconds": 88.075
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11090,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      11,
+      11
+    ],
+    "seconds": 84.335
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11090,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      14,
+      8
+    ],
+    "seconds": 83.329
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11100,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      9,
+      9
+    ],
+    "seconds": 80.569
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11100,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      14,
+      4,
+      14
+    ],
+    "seconds": 98.929
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11110,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      10,
+      6,
+      10
+    ],
+    "seconds": 75.192
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11110,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      12,
+      9
+    ],
+    "seconds": 71.59
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11120,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      11,
+      11
+    ],
+    "seconds": 79.249
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11120,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      8,
+      13,
+      7
+    ],
+    "seconds": 89.106
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11130,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      8,
+      11,
+      9
+    ],
+    "seconds": 89.264
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11130,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      12,
+      8
+    ],
+    "seconds": 86.235
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11140,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      9,
+      10
+    ],
+    "seconds": 73.114
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11140,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      11,
+      7
+    ],
+    "seconds": 73.414
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11150,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      8,
+      15,
+      4
+    ],
+    "seconds": 79.709
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11150,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      13,
+      10,
+      6
+    ],
+    "seconds": 78.853
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11160,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      15,
+      13,
+      6
+    ],
+    "seconds": 80.197
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11160,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      15,
+      8
+    ],
+    "seconds": 81.338
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11170,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      10,
+      12
+    ],
+    "seconds": 76.692
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11170,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      10,
+      12,
+      12
+    ],
+    "seconds": 81.225
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11180,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      10,
+      12
+    ],
+    "seconds": 78.353
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11180,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      13,
+      8
+    ],
+    "seconds": 85.985
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11190,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      9,
+      9
+    ],
+    "seconds": 81.142
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11190,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      12,
+      10
+    ],
+    "seconds": 84.255
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11200,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      12,
+      8
+    ],
+    "seconds": 77.21
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11200,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      8,
+      13
+    ],
+    "seconds": 66.267
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11210,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      4,
+      13,
+      10
+    ],
+    "seconds": 90.97
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11210,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      15,
+      9,
+      10
+    ],
+    "seconds": 86.001
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11220,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      10,
+      9
+    ],
+    "seconds": 76.867
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11220,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      9,
+      13
+    ],
+    "seconds": 92.289
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11230,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      9,
+      9
+    ],
+    "seconds": 77.262
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11230,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      13,
+      8
+    ],
+    "seconds": 88.581
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11240,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      16,
+      9,
+      9
+    ],
+    "seconds": 78.504
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11240,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      14,
+      9
+    ],
+    "seconds": 85.362
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11250,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      13,
+      7
+    ],
+    "seconds": 75.376
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11250,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      8,
+      14
+    ],
+    "seconds": 84.922
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11260,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      7,
+      11
+    ],
+    "seconds": 82.37
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11260,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      11,
+      10
+    ],
+    "seconds": 90.913
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11270,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      14,
+      6,
+      9
+    ],
+    "seconds": 82.224
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11270,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      15,
+      8
+    ],
+    "seconds": 82.133
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11280,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      14,
+      7,
+      11
+    ],
+    "seconds": 91.83
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11280,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      5,
+      12,
+      13,
+      10
+    ],
+    "seconds": 82.73
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11290,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      8,
+      9
+    ],
+    "seconds": 77.508
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11290,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      6,
+      14,
+      9
+    ],
+    "seconds": 74.856
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11300,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      8,
+      15
+    ],
+    "seconds": 96.754
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11300,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      8,
+      6,
+      12
+    ],
+    "seconds": 82.883
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11310,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      5,
+      13,
+      10
+    ],
+    "seconds": 75.278
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11310,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      13,
+      7
+    ],
+    "seconds": 76.889
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11320,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      8,
+      12
+    ],
+    "seconds": 78.204
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11320,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      14,
+      6
+    ],
+    "seconds": 76.004
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11330,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      9,
+      11,
+      14
+    ],
+    "seconds": 82.92
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11330,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      10,
+      12
+    ],
+    "seconds": 78.332
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11340,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      12,
+      9
+    ],
+    "seconds": 89.287
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11340,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      14,
+      8
+    ],
+    "seconds": 83.143
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11350,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      11,
+      12
+    ],
+    "seconds": 81.966
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11350,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      6,
+      14,
+      13
+    ],
+    "seconds": 78.797
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11360,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      11,
+      7
+    ],
+    "seconds": 85.817
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11360,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      6,
+      12,
+      11
+    ],
+    "seconds": 93.299
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11370,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      9,
+      11
+    ],
+    "seconds": 81.066
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11370,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      12,
+      9,
+      6
+    ],
+    "seconds": 81.947
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11380,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      7,
+      10,
+      14
+    ],
+    "seconds": 69.518
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11380,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      10,
+      8
+    ],
+    "seconds": 80.547
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11390,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      10,
+      8
+    ],
+    "seconds": 70.131
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11390,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      16,
+      6,
+      8,
+      10
+    ],
+    "seconds": 70.458
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11400,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      11,
+      12
+    ],
+    "seconds": 83.339
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11400,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      9,
+      10
+    ],
+    "seconds": 82.652
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11410,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      6,
+      13,
+      12
+    ],
+    "seconds": 78.756
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11410,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      11,
+      9
+    ],
+    "seconds": 79.591
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11420,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      7,
+      13
+    ],
+    "seconds": 77.078
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11420,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      8,
+      12
+    ],
+    "seconds": 73.184
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11430,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      8,
+      12,
+      6
+    ],
+    "seconds": 80.392
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11430,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      5,
+      14,
+      10
+    ],
+    "seconds": 78.73
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11440,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      6,
+      8,
+      18
+    ],
+    "seconds": 88.662
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11440,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      14,
+      6
+    ],
+    "seconds": 79.413
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11450,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      12,
+      4
+    ],
+    "seconds": 75.955
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11450,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      16,
+      9,
+      6,
+      9
+    ],
+    "seconds": 73.166
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11460,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      10,
+      9
+    ],
+    "seconds": 79.203
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11460,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      9,
+      12
+    ],
+    "seconds": 75.713
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11470,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      13,
+      8
+    ],
+    "seconds": 86.118
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11470,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      13,
+      12,
+      9
+    ],
+    "seconds": 81.258
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11480,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      10,
+      11
+    ],
+    "seconds": 88.769
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11480,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      8,
+      12
+    ],
+    "seconds": 89.35
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11490,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      17,
+      2
+    ],
+    "seconds": 78.256
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11490,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      9,
+      5,
+      18
+    ],
+    "seconds": 77.963
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11500,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      3,
+      15,
+      13,
+      9
+    ],
+    "seconds": 70.327
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11500,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      10,
+      10
+    ],
+    "seconds": 75.153
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11510,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      13,
+      7
+    ],
+    "seconds": 88.191
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11510,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      12,
+      10,
+      7
+    ],
+    "seconds": 90.163
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11520,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      7,
+      5,
+      13
+    ],
+    "seconds": 79.327
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11520,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      8,
+      10
+    ],
+    "seconds": 82.824
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11530,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      12,
+      9,
+      9
+    ],
+    "seconds": 77.747
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11530,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      13,
+      9,
+      12
+    ],
+    "seconds": 79.611
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11540,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      9,
+      11
+    ],
+    "seconds": 73.11
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11540,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      9,
+      12
+    ],
+    "seconds": 82.245
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11550,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      14,
+      8,
+      11
+    ],
+    "seconds": 77.297
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11550,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      10,
+      16,
+      6
+    ],
+    "seconds": 72.042
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11560,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      12,
+      11
+    ],
+    "seconds": 70.472
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11560,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      11,
+      10
+    ],
+    "seconds": 76.921
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11570,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      16,
+      8,
+      6
+    ],
+    "seconds": 87.794
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11570,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      5,
+      10,
+      15
+    ],
+    "seconds": 83.436
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11580,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      9,
+      6,
+      12
+    ],
+    "seconds": 76.193
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11580,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      12,
+      12
+    ],
+    "seconds": 68.841
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11590,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      15,
+      6
+    ],
+    "seconds": 68.064
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11590,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      9,
+      11
+    ],
+    "seconds": 71.902
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11600,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      8,
+      11
+    ],
+    "seconds": 76.847
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11600,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      9,
+      9,
+      9
+    ],
+    "seconds": 72.237
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11610,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      6,
+      13,
+      12
+    ],
+    "seconds": 67.26
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11610,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      16,
+      7,
+      8,
+      9
+    ],
+    "seconds": 69.11
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11620,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      10,
+      13,
+      4
+    ],
+    "seconds": 82.371
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11620,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      9,
+      12
+    ],
+    "seconds": 79.523
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11630,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      11,
+      8
+    ],
+    "seconds": 65.279
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11630,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      12,
+      7
+    ],
+    "seconds": 72.321
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11640,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      8,
+      12
+    ],
+    "seconds": 73.678
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11640,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      11,
+      7
+    ],
+    "seconds": 73.279
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11650,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      10,
+      8
+    ],
+    "seconds": 80.21
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11650,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      14,
+      11,
+      9
+    ],
+    "seconds": 80.123
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11660,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      5,
+      13,
+      13
+    ],
+    "seconds": 80.826
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11660,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      8,
+      10
+    ],
+    "seconds": 78.601
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11670,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      11,
+      8
+    ],
+    "seconds": 72.54
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11670,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      13,
+      7
+    ],
+    "seconds": 75.368
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11680,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      13,
+      11,
+      10
+    ],
+    "seconds": 94.5
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11680,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      14,
+      9,
+      11
+    ],
+    "seconds": 78.973
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11690,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      11,
+      8,
+      10
+    ],
+    "seconds": 79.481
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11690,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      8,
+      10,
+      13
+    ],
+    "seconds": 76.578
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11700,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      12,
+      8
+    ],
+    "seconds": 86.189
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11700,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      5,
+      15
+    ],
+    "seconds": 78.623
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11710,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      10,
+      9,
+      8
+    ],
+    "seconds": 88.547
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11710,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      11,
+      10
+    ],
+    "seconds": 86.556
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11720,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      9,
+      9,
+      12
+    ],
+    "seconds": 84.662
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11720,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      12,
+      9,
+      9
+    ],
+    "seconds": 83.566
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11730,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      13,
+      8
+    ],
+    "seconds": 89.961
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11730,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      8,
+      8,
+      14
+    ],
+    "seconds": 83.714
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11740,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      9,
+      8
+    ],
+    "seconds": 86.422
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11740,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      7,
+      14
+    ],
+    "seconds": 89.864
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11750,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      10,
+      12,
+      6
+    ],
+    "seconds": 92.691
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11750,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      17,
+      10,
+      7
+    ],
+    "seconds": 104.23
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11760,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      16,
+      5
+    ],
+    "seconds": 92.715
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11760,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      9,
+      14
+    ],
+    "seconds": 93.861
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11770,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      13,
+      8,
+      10
+    ],
+    "seconds": 91.365
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11770,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      8,
+      10,
+      11
+    ],
+    "seconds": 95.079
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11780,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      11,
+      8
+    ],
+    "seconds": 98.862
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11780,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      11,
+      9,
+      11
+    ],
+    "seconds": 98.265
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11790,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      4,
+      11,
+      14
+    ],
+    "seconds": 96.779
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11790,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      14,
+      11,
+      8,
+      7
+    ],
+    "seconds": 96.858
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11800,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      11,
+      7,
+      14
+    ],
+    "seconds": 90.519
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11800,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      12,
+      10
+    ],
+    "seconds": 87.725
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11810,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      9,
+      8
+    ],
+    "seconds": 80.544
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11810,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      10,
+      9
+    ],
+    "seconds": 90.207
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11820,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      12,
+      8,
+      10
+    ],
+    "seconds": 91.952
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11820,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      5,
+      14
+    ],
+    "seconds": 83.407
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11830,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      5,
+      11,
+      12
+    ],
+    "seconds": 98.25
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11830,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      14,
+      8,
+      8
+    ],
+    "seconds": 81.115
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11840,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      10,
+      9
+    ],
+    "seconds": 93.704
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11840,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      10,
+      9,
+      12
+    ],
+    "seconds": 85.452
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11850,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      13,
+      9,
+      7
+    ],
+    "seconds": 93.376
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11850,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      12,
+      8,
+      12
+    ],
+    "seconds": 91.12
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11860,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      12,
+      8
+    ],
+    "seconds": 92.425
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11860,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      10,
+      12,
+      11
+    ],
+    "seconds": 90.015
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11870,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      7,
+      12
+    ],
+    "seconds": 97.537
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11870,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      8,
+      9,
+      11
+    ],
+    "seconds": 100.725
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11880,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      5,
+      14
+    ],
+    "seconds": 96.28
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11880,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      10,
+      14
+    ],
+    "seconds": 104.882
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11890,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      7,
+      8,
+      12
+    ],
+    "seconds": 93.116
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11890,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      6,
+      13,
+      11
+    ],
+    "seconds": 88.226
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11900,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      8,
+      13,
+      6
+    ],
+    "seconds": 89.022
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11900,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      6,
+      7,
+      16
+    ],
+    "seconds": 91.099
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11910,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      11,
+      9,
+      7
+    ],
+    "seconds": 77.589
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11910,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      9,
+      13,
+      11
+    ],
+    "seconds": 78.451
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11920,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      15,
+      7,
+      9,
+      9
+    ],
+    "seconds": 90.26
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11920,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      9,
+      12,
+      10
+    ],
+    "seconds": 84.582
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11930,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      13,
+      8,
+      10,
+      9
+    ],
+    "seconds": 93.565
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11930,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      7,
+      10,
+      13
+    ],
+    "seconds": 95.411
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11940,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      13,
+      8,
+      9
+    ],
+    "seconds": 91.041
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11940,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      9,
+      11,
+      9
+    ],
+    "seconds": 83.792
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11950,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      9,
+      12,
+      7
+    ],
+    "seconds": 91.053
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11950,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      5,
+      10,
+      13
+    ],
+    "seconds": 95.659
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11960,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      11,
+      8,
+      11
+    ],
+    "seconds": 99.051
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11960,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      7,
+      9,
+      14,
+      10
+    ],
+    "seconds": 108.403
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11970,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      9,
+      12,
+      8,
+      11
+    ],
+    "seconds": 93.272
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11970,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      11,
+      10,
+      8,
+      11
+    ],
+    "seconds": 98.664
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11980,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      6,
+      16,
+      8,
+      10
+    ],
+    "seconds": 95.954
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11980,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      12,
+      7,
+      9,
+      12
+    ],
+    "seconds": 87.096
+  },
+  {
+    "challenger": "582500",
+    "champion": "298k",
+    "seed_start": 11990,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      8,
+      13,
+      9,
+      10
+    ],
+    "seconds": 81.862
+  },
+  {
+    "challenger": "298k",
+    "champion": "582500",
+    "seed_start": 11990,
+    "seed_count": 10,
+    "key": 9427144312314120477,
+    "commit": "0cff2b52982be5b1163aa9a62fb01f03ce91e0d2",
+    "ranks": [
+      10,
+      10,
+      11,
+      9
+    ],
+    "seconds": 100.201
+  }
+]
